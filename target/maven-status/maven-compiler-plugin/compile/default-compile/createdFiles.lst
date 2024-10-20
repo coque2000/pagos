@@ -1,0 +1,9 @@
+mx\com\pagos\controller\registroClientesController.class
+mx\com\pagos\controller\reporteClientesController.class
+mx\com\pagos\App.class
+mx\com\pagos\PrimaryController.class
+module-info.class
+mx\com\pagos\SecondaryController.class
+mx\com\pagos\util\R.class
+mx\com\pagos\controller\informeClientesController.class
+mx\com\pagos\controller\registroPagosController.class
